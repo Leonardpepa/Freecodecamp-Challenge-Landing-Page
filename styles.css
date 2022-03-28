@@ -226,6 +226,10 @@ footer {
     word-break: break-all;
     height: max-content;
   }
+
+  #form-section {
+    margin-top: 180px;
+  }
   #header-img {
     max-width: 70%;
   }
